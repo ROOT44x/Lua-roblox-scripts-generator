@@ -1,2 +1,2 @@
 # Lua-roblox-scripts-generator
-you can generate loadstring for pastebin and github raw links, By ROOT44
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ROOT44x/scripts/main/scripts/LoadstringW5sI6X6qnbb4", true))()
